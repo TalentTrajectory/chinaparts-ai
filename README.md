@@ -2,7 +2,7 @@
 
 AgentForge 的工业零部件 API 起步项目，使用个人开发者身份参与 x402 生态。
 
-当前仅包含合成数据示例，不含供应商数据、AI 模型或生产服务。计划仓库：`TalentTrajectory/chinaparts-ai`。开源许可证待维护者确认。
+当前仅包含合成数据示例，不含供应商数据、AI 模型或生产服务。仓库：[TalentTrajectory/chinaparts-ai](https://github.com/TalentTrajectory/chinaparts-ai)。按 [Apache-2.0](LICENSE) 许可证开源。
 
 ## 本地开发
 
